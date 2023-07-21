@@ -1,0 +1,12 @@
+Project Title: Empowering Women
+
+Theme: General [Empowering Women]
+
+Tools Used: HTML,CSS,Microsoft Edge,Visual Studio
+
+Project Description: Simple website that focuses on empowering women. Using HTML and CSS basic knowledge created a Simple website. We tried share inspiration story regarding women entrepreneur and women in sports. Also mentioned a photo gallery of famous women. The basic skills every women need to have and helps to build their skills we also added some of articles regarding this. This is totally simple and attractive website. We can also add some more features to it.
+With a light color background website may attracts user.
+
+Team Members Name: Rajashree
+		   Shravya M
+link:https://drive.google.com/file/d/1KFNJuQsKhHvqrL3Q71a8nb98dJQPl0y2/view?usp=share_link
